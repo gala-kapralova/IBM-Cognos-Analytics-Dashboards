@@ -4,6 +4,7 @@ There are three dashboard tabs:
 - Current Technology Usage,
 - Future Technology Trends,
 - Demographics.
+
 Each dashboard is using the 2 x 2 rectangle areas tabbed template.
 Visualizations:
 - Bar chart,
@@ -15,4 +16,5 @@ Visualizations:
 - Tree map chart,
 - Line chart,
 - Stacked bar chart.
+
 The dataset is used for a dashboard creation comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ (Stack Overflow’s annual Developer Survey 2019) under a ODbL: Open Database License.
