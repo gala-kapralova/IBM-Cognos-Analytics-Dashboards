@@ -2,9 +2,9 @@
 
 The goal of this project is to practice data visualization using IBM Cognos Analytics. 
 There are three dashboard tabs:
-- [Current Technology Usage](Current_Technology_Usage.pdf),
-- Future Technology Trends,
-- Demographics.
+- [Current Technology Usage](Current%20Technology%20Usage.pdf),
+- [Future Technology Trends](Future%20Technology%20Trends.pdf),
+- [Demographics](Demographics.pdf).
 
 Each dashboard is using the 2 x 2 rectangle areas tabbed template.
 Visualizations:
