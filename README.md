@@ -5,7 +5,7 @@ There are three dashboard tabs:
 - Current Technology Usage,
 - Future Technology Trends,
 - Demographics.
-[Current Technology Usage](Current_Technology_Usage.pdf)
+![Current Technology Usage](Current_Technology_Usage.pdf)
 
 Each dashboard is using the 2 x 2 rectangle areas tabbed template.
 Visualizations:
